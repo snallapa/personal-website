@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://sad-kilby-2df4e2.netlify.com/* https://nallapareddy.com/:splat 301!
