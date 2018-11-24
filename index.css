@@ -107,7 +107,8 @@ a:hover {
 .svg {
    position: absolute;
    bottom: 0;
-   right: -48px;
-   transform: rotateZ(-45deg);
+   right: 0;
    overflow-x:hidden;
+   width: 250px;
+   transform: rotateZ(-10deg);
 }

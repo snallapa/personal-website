@@ -1,86 +1,73 @@
 .path1 {
-    stroke: #000;
-    stroke-dasharray: 700.8058471679688;
-    stroke-dashoffset: 700.8058471679688;
+    stroke: black;
+    stroke-dasharray: 2293.145263671875;
+    stroke-dashoffset: 2293.145263671875;
     animation: dash 5s linear forwards;
     fill-opacity: 0
 }
 .path2 {
-    stroke: #000;
-    stroke-dasharray: 686.381103515625;
-    stroke-dashoffset: 686.381103515625;
+    stroke-dasharray: 2990.060546875;
+    stroke-dashoffset: 2990.060546875;
     animation: dash 5s linear forwards;
     fill-opacity: 0
 }
 .path3 {
-    stroke: #000;
-    stroke-dasharray: 678.3856201171875;
-    stroke-dashoffset: 678.3856201171875;
+    stroke-dasharray: 4619.7490234375;
+    stroke-dashoffset: 4619.7490234375;
     animation: dash 5s linear forwards;
     fill-opacity: 0
 }
 .path4 {
-    stroke-dasharray: 681.5184936523438;
-    stroke-dashoffset: 681.5184936523438;
+    stroke-dasharray: 4994.43994140625;
+    stroke-dashoffset: 4994.43994140625;
     animation: dash 5s linear forwards;
     fill-opacity: 0
 }
 .path5 {
-    stroke: #000;
-    stroke-dasharray: 692.8239135742188;
-    stroke-dashoffset: 692.8239135742188;
+    stroke-dasharray: 5032.2275390625;
+    stroke-dashoffset: 5032.2275390625;
     animation: dash 5s linear forwards;
     fill-opacity: 0
 }
 .path6 {
-    
-    stroke-dasharray: 744.2315673828125;
-    stroke-dashoffset: 744.2315673828125;
+    stroke-dasharray: 5008.92333984375;
+    stroke-dashoffset: 5008.92333984375;
     animation: dash 5s linear forwards;
     fill-opacity: 0
 }
 .path7 {
-    stroke-dasharray: 1086.896240234375;
-    stroke-dashoffset: 1086.896240234375;
+    stroke-dasharray: 4443.62548828125;
+    stroke-dashoffset: 4443.62548828125;
     animation: dash 5s linear forwards;
     fill-opacity: 0
 }
 .path8 {
-    stroke-dasharray: 1187.95263671875;
-    stroke-dashoffset: 1187.95263671875;
+    stroke-dasharray: 4632.0087890625;
+    stroke-dashoffset: 4632.0087890625;
     animation: dash 5s linear forwards;
     fill-opacity: 0
 }
 .path9 {
-    stroke-dasharray: 1196.176513671875;
-    stroke-dashoffset: 1196.176513671875;
+    stroke-dasharray: 2676.97607421875;
+    stroke-dashoffset: 2676.97607421875;
     animation: dash 5s linear forwards;
     fill-opacity: 0
 }
 .path10 {
-    stroke: #000;
-    stroke-dasharray: 1132.7557373046875;
-    stroke-dashoffset: 1132.7557373046875;
+    stroke-dasharray: 1928.1224365234375;
+    stroke-dashoffset: 1928.1224365234375;
     animation: dash 5s linear forwards;
     fill-opacity: 0
 }
 .path11 {
-    stroke: #000;
-    stroke-dasharray: 733.503662109375;
-    stroke-dashoffset: 733.503662109375;
+    stroke-dasharray: 1590.471435546875;
+    stroke-dashoffset: 1590.471435546875;
     animation: dash 5s linear forwards;
     fill-opacity: 0
 }
 .path12 {
-    stroke: #000;
-    stroke-dasharray: 733.4327392578125;
-    stroke-dashoffset: 733.4327392578125;
-    animation: dash 5s linear forwards;
-    fill-opacity: 0
-}
-.path13 {
-    stroke-dasharray: 692.0350341796875;
-    stroke-dashoffset: 692.0350341796875;
+    stroke-dasharray: 545.7061767578125;
+    stroke-dashoffset: 545.7061767578125;
     animation: dash 5s linear forwards;
     fill-opacity: 0
 }
@@ -92,7 +79,7 @@
     80% {
         stroke-dashoffset: 0;
         fill-opacity: 0;
-        stroke-width: 1.5;
+        stroke-width: 2;
     }
     100% {
         stroke-width: 0;
