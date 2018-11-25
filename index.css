@@ -111,3 +111,9 @@ a:hover {
    width: 210px;
    transform: rotateZ(-10deg)
 }
+
+ul {
+    padding: 0 12px 0 18px;
+    list-style-position: outside;
+    margin: 0;
+}
